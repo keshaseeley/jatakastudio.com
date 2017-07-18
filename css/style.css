@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
 }
+
 .gradient {
   top: 0;
   left: 0;
@@ -63,11 +64,13 @@ body {
   justify-content: center;
   align-items: center;
 }
+
 .logo {
   /*font-family: 'Kaushan Script', cursive;*/
   font-family: 'Berkshire Swash', cursive;
   font-size: 2.5em;
 }
+
 .headline {
   /*font-family: 'Convergence', sans-serif;*/
   font-family: 'Poppins', sans-serif;
